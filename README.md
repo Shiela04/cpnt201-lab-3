@@ -1,5 +1,12 @@
 # Spotify
 
+## Table of contents
+
+- [Spotify](#spotify)
+  - [Table of contents](#table-of-contents)
+  - [Music](#music)
+    - [Songs](#songs)
+
 ## Music
 
 - Classical
