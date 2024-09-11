@@ -2,10 +2,10 @@
 
 ## Table of contents
 
-- [Music](#music)
+- [Genre of Music](#genre-of-music)
 - [Songs](#songs)
 
-## Music
+## Genre of Music
 
 - Classical
 - Pop
