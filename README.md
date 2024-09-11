@@ -11,7 +11,7 @@
 - Pop
 - Rock
 - Hip hop
-- RmB
+- Brn
 - Kpop
 
 ### Songs
