@@ -12,7 +12,7 @@
 - Rock
 - Hip hop
 - RmB
-- Podcast
+- Kpop
 
 ### Songs
 
