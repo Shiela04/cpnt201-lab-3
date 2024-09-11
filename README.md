@@ -12,11 +12,11 @@
 - Rock
 - Hip hop
 - RmB
-- Podcast
+- Kpop
 
 ### Songs
 
-1. one With Silence
+1. on With Silence
 2. Carry You Home
 3. Let's Go Crazy
 4. act like
