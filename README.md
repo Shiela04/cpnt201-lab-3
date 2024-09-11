@@ -12,6 +12,7 @@
 - Rock
 - Hip hop
 - RmB
+- Podcast
 
 ### Songs
 
