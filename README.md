@@ -5,7 +5,7 @@
 - [Genre of Music](#genre-of-music)
 - [Songs](#songs)
 
-## Genre of Music
+## Music Genre
 
 - Classical
 - Pop
