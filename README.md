@@ -17,3 +17,5 @@
 5. Redemption
 
 Listen to [Spotify](https://open.spotify.com/)
+
+![Home Page](spotify.png)
