@@ -16,7 +16,7 @@
 
 ### Songs
 
-1. one With Silence
+1. One With Silence
 2. Carry You Home
 3. Let's Go Crazy
 4. act like
