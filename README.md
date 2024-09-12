@@ -13,6 +13,8 @@
 - Hip hop
 - RnB
 - Kpop
+- Pop rock
+- Jpop
 
 ### Songs
 
